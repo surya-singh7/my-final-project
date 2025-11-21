@@ -1,6 +1,6 @@
 # Online Book Review Server-Side Application
 
-Welcome to the Online Book Review Server-Side Application, the final project for the IBM Course "Developing back-end apps with Node.js and Express."  the overviw of my application allows users to manage books, write reviews, and interact with book-related data. It utilizes MySQL as the database and Sequelize.js as the ORM (Object-Relational Mapping) tool.
+Welcome to the Online Book Review Server-Side Application, the final project for the IBM Course "Developing back-end apps with Node.js and Express."  the overviw of my application allows users to manage books, write reviews, and interact with book-related data. It utilizes Mongodb as the database and Sequelize.js as the ORM (Object-Relational Mapping) tool.
 
 ## Quick Brief
 
@@ -38,8 +38,8 @@ Follow these instructions to set up and run the application:
 
 4. **Configure the database connection**:
    
-   - Create a MySQL database for the application.
-   - Set your MySQL database credentials and other environment variables in the `.env` file.
+   - Create a Mongod bdatabase for the application.
+   - Set your Mongodb database credentials and other environment variables in the `.env` file.
 
 5. **Start the application**:
 
@@ -61,5 +61,5 @@ For detailed API documentation and examples of how to use the endpoints, please 
 
 - **Node.js**: JavaScript runtime environment.
 - **Express.js**: Web application framework for Node.js.
-- **MySQL**: Relational database management system.
-- **Sequelize.js**: Promise-based Node.js ORM for MySQL.
+- **Mongodb**: Relational database management system.
+
