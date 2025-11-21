@@ -14,7 +14,7 @@ Follow these instructions to set up and run the application:
 
 1. **Node.js**: Ensure you have Node.js installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-2. **MySQL**: You will need a MySQL database server installed and running. You can download MySQL from [mysql.com](https://www.mysql.com/).
+2. **mongodb** use in mydata base it is best or esay for begineers
 
 ### Installation
 
